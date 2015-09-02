@@ -10,7 +10,7 @@
     <footer>
 
     </footer>
-
+</div>
     <script src="js/jquery.js"></script>
     <script src="js/common.js"></script>
 </body>
